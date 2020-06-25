@@ -1,0 +1,30 @@
+
+/* this code decides what the background image is */
+     body {
+  background-image: url('https://cdn.hipwallpaper.com/i/85/16/gPRVLN.jpg');
+}
+
+
+/* this is the code that decides what the heading looks like such as the shawdow of the text and the font that is used */
+
+h1 {
+  text-shadow: 2px 2px 5px blue;
+  font-family: "Times New Roman", Times, serif;
+}
+/* this code decieds where he image is postioned */
+
+img {
+  float: right;
+  border-radius: 50%;
+}
+
+/* this code decides what the background and border of the list look like */
+
+ul {
+  background-color: teal;
+  width: 200px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  list-style-type: disc;
+}
